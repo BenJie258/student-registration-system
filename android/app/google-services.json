@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329272704175",
+    "project_id": "stu-regsystem",
+    "storage_bucket": "stu-regsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329272704175:android:8b6d66e4114c73a78b685a",
+        "android_client_info": {
+          "package_name": "com.example.studentreg_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfh7dW4QZnyadQFMQ2QLhs-ZKmU8p6NKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
